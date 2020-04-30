@@ -117,7 +117,12 @@
    countries: cz, sk, at, be, hr, cy, dk, ee, fi, fr, de, gr, hu, is, ie, it, lv, li, lt, lu, mt, mc, nl, nor, pl, pt, sm, sk, si, es, se, ch, gb, uk
    logo: ccshop.png
    url: https://www.ccshop.info
-
+   
+ - exchange: Bit4Sale
+   description: Bit4Sale is a cryptocurrency exchange Based in Estonia. It`s main specialised service is insant cryptocurrency purchases via credit and debit cards.
+   logo: https://bit4.sale/img/logo.svg
+   url: https://bit4.sale/en/
+   
 ############## United Kingdom ##############
 
  - exchange: Atomic Wallet
